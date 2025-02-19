@@ -1,8 +1,6 @@
 # Friends_run
-# Documento de Requisitos  
 
 ## 1. Itens Requeridos  
-
 ### 1.1. Membros da Equipe  
 Os membros da equipe são:  
 
@@ -32,6 +30,16 @@ A proposta do aplicativo é unir tecnologia e esportes, promovendo uma experiên
 O protótipo do aplicativo pode ser acessado no link abaixo:  
 
 🔗 [Protótipo no Figma]([https://www.figma.com/design/ZCTY6soMsbyV5Ayhrsubnj/App.-for-runners-(Community)?node-id=0-1&p=f&t=S5c1IJMiuiGJFmCK-0](https://www.figma.com/design/Tz33aKRt1J716lVrb74dc4/Untitled?node-id=0-1&p=f&t=vuMhP4fIGgpBRZnL-0)
+
+IMAGENS DO APP
+![image](https://github.com/user-attachments/assets/9cf09a1b-8f80-47fb-8ac7-28fd7859ab91) ![image](https://github.com/user-attachments/assets/8e836b3e-7825-42d5-9f0f-f5ae996b6369) ![image](https://github.com/user-attachments/assets/e9fedbce-1f65-44ab-ad02-771f81737dbe) ![image](https://github.com/user-attachments/assets/c4117799-b009-41c4-91c0-05b285cda44f) ![image](https://github.com/user-attachments/assets/2ec0cbf5-88aa-4f16-8266-ce9e00435bff) ![image](https://github.com/user-attachments/assets/fdff2ddb-7e51-4054-bf42-7a0086747b8f) ![image](https://github.com/user-attachments/assets/ab470d42-e7d0-42eb-af33-118f208868b3)
+
+
+
+
+
+
+
 ---
 
 ### 1.4. Backlog  
