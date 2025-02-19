@@ -43,7 +43,9 @@ IMAGENS DO APP
 ---
 
 ### 1.4. Backlog  
-
+#### 📌 ** GitHub Projects:** O gerenciamento das atividades será realizado via **Projects** neste repositório do GitHub.  
+[Projects]([https://github.com/users/RogerioLacerdaGH/projects/2/views/1])(https://github.com/users/RogerioLacerdaGH/projects/2/views/1)
+---
 Abaixo estão as **estórias do usuário** baseadas nas funcionalidades principais do aplicativo:  
 
 #### **Criação e Participação de Corridas**  
@@ -67,8 +69,3 @@ Abaixo estão as **estórias do usuário** baseadas nas funcionalidades principa
 - **"Como usuário, quero visualizar uma lista de corridas próximas para escolher em quais participar."**  
 - **"Como corredor, quero receber sugestões de corridas baseadas na minha localização e histórico de participação."**
 ---
-
-📌 ** GitHub Projects:** O gerenciamento das atividades será realizado via **Projects** neste repositório do GitHub.  
-
----
-
