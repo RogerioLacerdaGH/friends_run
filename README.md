@@ -7,8 +7,6 @@ Os membros da equipe são:
 - **Fábio Guerra Medeiros** - [fabio.guerramedeiros@gmail.com](mailto:fabio.guerramedeiros@gmail.com)  
 - **Rogério Lacerda dos Santos** - [nenorogerinho@gmail.com](mailto:nenorogerinho@gmail.com)  
 
-> **Nota:** Situações excepcionais, como a desistência inesperada de membros, deverão ser previamente comunicadas.  
-
 ---
 
 ### 1.2. Descrição Resumida do Aplicativo  
